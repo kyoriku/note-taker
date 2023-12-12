@@ -12,3 +12,7 @@ app.use(express.static('public'));
 
 app.use('/api/notes', apiRoutes);
 app.use('/', htmlRoutes);
+
+app.listen(PORT, () => {
+  console.log(`Server is listening on PORT ${PORT}`);
+});
