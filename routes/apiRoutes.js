@@ -24,3 +24,4 @@ apiRouter.delete('/:id', (req, res) => {
   res.json({ message: 'Note deleted' });
 });
 
+module.exports = apiRouter;
