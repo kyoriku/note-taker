@@ -22,4 +22,4 @@ app.use('/', htmlRoutes);
 app.listen(PORT, () => {
   // Logging a message when the server starts successfully
   console.log(`Server running on PORT ${PORT}`);
-});
+}); 
