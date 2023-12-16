@@ -41,6 +41,9 @@ To use the Express.js Note Taker, follow these steps:
 ## Deployment
 The Express.js Note Taker is deployed on Heroku. You can access the live application [here](https://murmuring-mesa-04318-2e971da9f7a1.herokuapp.com/).
 
+### Screenshots
+![Screenshot1](assets/images/express-note-taker.png)
+
 ## License
 This application is covered by the [MIT](https://opensource.org/licenses/MIT) license.
 
