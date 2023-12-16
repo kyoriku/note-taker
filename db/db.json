@@ -1,6 +1,27 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "title": "Complete Project Proposal",
+    "text": "Draft and finalize the project proposal for client review.",
+    "id": "57019958-57cd-42e2-b8ec-3f134461d267"
+  },
+  {
+    "title": "Meeting with Team",
+    "text": "Schedule and conduct a team meeting to discuss project updates and address any issues.",
+    "id": "57019958-57cd-42e2-b8ec-3f134461d268"
+  },
+  {
+    "title": "Research New Technologies",
+    "text": "Explore and gather information on the latest technologies relevant to our project.",
+    "id": "57019958-57cd-42e2-b8ec-3f134461d269"
+  },
+  {
+    "title": "Review Client Feedback",
+    "text": "Carefully go through client feedback and incorporate necessary changes into the project plan.",
+    "id": "57019958-57cd-42e2-b8ec-3f134461d270"
+  },
+  {
+    "title": "Update Documentation",
+    "text": "Revise and update project documentation to reflect recent changes and improvements.",
+    "id": "57019958-57cd-42e2-b8ec-3f134461d271"
+  }
 ]
