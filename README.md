@@ -8,6 +8,7 @@ The Express.js Note Taker is a web application designed to help small business o
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Deployment](#deployment)
 - [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
@@ -36,6 +37,9 @@ To use the Express.js Note Taker, follow these steps:
     npm start
     ```
 2. Open your web browser and go to `http://localhost:3001`.
+
+## Deployment
+The Express.js Note Taker is deployed on Heroku. You can access the live application [here](https://murmuring-mesa-04318-2e971da9f7a1.herokuapp.com/).
 
 ## License
 This application is covered by the [MIT](https://opensource.org/licenses/MIT) license.
